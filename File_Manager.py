@@ -411,7 +411,8 @@ while True:
     print("|  2. Open File               |")
     print("|  3. Delete File             |")
     print("|  4. Rename File             |")
-    print("|  5. Show Existing Files&Folder|")
+    print("|  5. Show Existing Files &   |")
+    print("|     Folders                 |")
     print("|  6. Exit                    |")
     print("——————————————————————————————")
 
